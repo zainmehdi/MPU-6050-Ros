@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/zain/catkin_ws/src/mpu_6050_ros/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
